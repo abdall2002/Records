@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_ValueBasedEquality", "_01_ValueBasedEquality\_01_ValueBasedEquality.csproj", "{408FD158-1703-4A11-A476-0AA6C91CB6B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C02.ReferenceBasedEquality", "C02.ReferenceBasedEquality\C02.ReferenceBasedEquality.csproj", "{2C7A7FEF-FA20-4927-9954-D11C9317CF74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{408FD158-1703-4A11-A476-0AA6C91CB6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{408FD158-1703-4A11-A476-0AA6C91CB6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{408FD158-1703-4A11-A476-0AA6C91CB6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7A7FEF-FA20-4927-9954-D11C9317CF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7A7FEF-FA20-4927-9954-D11C9317CF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7A7FEF-FA20-4927-9954-D11C9317CF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7A7FEF-FA20-4927-9954-D11C9317CF74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
