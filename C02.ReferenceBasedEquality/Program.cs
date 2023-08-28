@@ -14,7 +14,7 @@ Console.WriteLine($"p1.Equals(p2) = {p1.Equals(p2)}");    // -> print False;
 Console.WriteLine($"Object.ReferenceEquals(p1, p2) =" +
                 $"{Object.ReferenceEquals(p1, p2)}");     // -> print False
 
-p1 = p2;
+p1 = p2;   // -> mean p1 point to thing that p2 point to it;
 
 Console.WriteLine($"p1.Equals(p2) = {p1.Equals(p2)}");    // -> print True;
 Console.WriteLine($"Object.ReferenceEquals(p1, p2) =" +

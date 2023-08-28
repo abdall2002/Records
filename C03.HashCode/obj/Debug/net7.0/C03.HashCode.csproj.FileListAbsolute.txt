@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\bin\Debug\net7.0\C03.HashCode.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\bin\Debug\net7.0\C03.HashCode.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\bin\Debug\net7.0\C03.HashCode.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\bin\Debug\net7.0\C03.HashCode.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\bin\Debug\net7.0\C03.HashCode.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\C03.HashCode.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\C03.HashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\C03.HashCode.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\C03.HashCode.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\C03.HashCode.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\C03.HashCode.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\refint\C03.HashCode.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\C03.HashCode.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\C03.HashCode.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C03.HashCode\obj\Debug\net7.0\ref\C03.HashCode.dll
