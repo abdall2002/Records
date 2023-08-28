@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\bin\Debug\net7.0\C02.ReferenceBasedEquality.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\bin\Debug\net7.0\C02.ReferenceBasedEquality.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\bin\Debug\net7.0\C02.ReferenceBasedEquality.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\bin\Debug\net7.0\C02.ReferenceBasedEquality.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\bin\Debug\net7.0\C02.ReferenceBasedEquality.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\C02.ReferenceBasedEquality.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\C02.ReferenceBasedEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\C02.ReferenceBasedEquality.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\C02.ReferenceBasedEquality.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\C02.ReferenceBasedEquality.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\C02.ReferenceBasedEquality.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\refint\C02.ReferenceBasedEquality.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\C02.ReferenceBasedEquality.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\C02.ReferenceBasedEquality.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C02.ReferenceBasedEquality\obj\Debug\net7.0\ref\C02.ReferenceBasedEquality.dll
