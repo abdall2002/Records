@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\bin\Debug\net7.0\_01_ValueBasedEquality.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\bin\Debug\net7.0\_01_ValueBasedEquality.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\bin\Debug\net7.0\_01_ValueBasedEquality.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\bin\Debug\net7.0\_01_ValueBasedEquality.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\bin\Debug\net7.0\_01_ValueBasedEquality.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\_01_ValueBasedEquality.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\_01_ValueBasedEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\_01_ValueBasedEquality.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\_01_ValueBasedEquality.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\_01_ValueBasedEquality.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\_01_ValueBasedEquality.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\refint\_01_ValueBasedEquality.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\_01_ValueBasedEquality.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\_01_ValueBasedEquality.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\_01_ValueBasedEquality\obj\Debug\net7.0\ref\_01_ValueBasedEquality.dll
