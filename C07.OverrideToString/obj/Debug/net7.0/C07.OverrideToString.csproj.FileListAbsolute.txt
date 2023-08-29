@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\bin\Debug\net7.0\C07.OverrideToString.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\bin\Debug\net7.0\C07.OverrideToString.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\bin\Debug\net7.0\C07.OverrideToString.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\bin\Debug\net7.0\C07.OverrideToString.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\bin\Debug\net7.0\C07.OverrideToString.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\C07.OverrideToString.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\C07.OverrideToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\C07.OverrideToString.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\C07.OverrideToString.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\C07.OverrideToString.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\C07.OverrideToString.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\refint\C07.OverrideToString.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\C07.OverrideToString.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\C07.OverrideToString.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C07.OverrideToString\obj\Debug\net7.0\ref\C07.OverrideToString.dll
