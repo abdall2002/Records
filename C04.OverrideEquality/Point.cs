@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace C04.OverrideEquality
 {
-    class Point
+    class Point : IEquatable<Point>
     {
         public int X;
         public int Y;
@@ -17,14 +18,28 @@ namespace C04.OverrideEquality
             Y = y;
         }
 
+        //public override bool Equals(object obj)
+        //{
+        //    Point p = obj as Point;
+        //    if(p is null) 
+        //    {
+        //        return false;
+        //    }
+        //    return p.X == X && p.Y == Y;
+        //}
+
         public override bool Equals(object obj)
         {
             Point p = obj as Point;
-            if(p is null) 
-            {
+
+            return this.Equals(p);
+        }
+
+        public bool Equals(Point point)
+        {
+            if (point is null)
                 return false;
-            }
-            return p.X == X && p.Y == Y;
+            return point.X == X && point.Y == Y;
         }
 
         public override int GetHashCode()
