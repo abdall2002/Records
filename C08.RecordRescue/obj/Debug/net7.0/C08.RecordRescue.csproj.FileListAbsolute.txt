@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\bin\Debug\net7.0\C08.RecordRescue.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\bin\Debug\net7.0\C08.RecordRescue.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\bin\Debug\net7.0\C08.RecordRescue.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\bin\Debug\net7.0\C08.RecordRescue.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\bin\Debug\net7.0\C08.RecordRescue.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\C08.RecordRescue.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\C08.RecordRescue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\C08.RecordRescue.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\C08.RecordRescue.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\C08.RecordRescue.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\C08.RecordRescue.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\refint\C08.RecordRescue.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\C08.RecordRescue.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\C08.RecordRescue.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C08.RecordRescue\obj\Debug\net7.0\ref\C08.RecordRescue.dll
