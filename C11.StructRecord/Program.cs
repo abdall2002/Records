@@ -8,3 +8,10 @@ Console.WriteLine(p1);
 
 //public record struct Point(int X, int Y);
 public readonly record struct Point(int X, int Y);
+
+public record struct PointV2
+{
+    public int X;
+    public int Y;
+
+}
