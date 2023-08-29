@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\bin\Debug\net7.0\C10.PositionalRecord.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\bin\Debug\net7.0\C10.PositionalRecord.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\bin\Debug\net7.0\C10.PositionalRecord.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\bin\Debug\net7.0\C10.PositionalRecord.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\bin\Debug\net7.0\C10.PositionalRecord.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\C10.PositionalRecord.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\C10.PositionalRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\C10.PositionalRecord.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\C10.PositionalRecord.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\C10.PositionalRecord.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\C10.PositionalRecord.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\refint\C10.PositionalRecord.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\C10.PositionalRecord.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\C10.PositionalRecord.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C10.PositionalRecord\obj\Debug\net7.0\ref\C10.PositionalRecord.dll

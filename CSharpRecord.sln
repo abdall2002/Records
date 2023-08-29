@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C08.RecordRescue", "C08.Rec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C09.ImmutableRecordUsingInit", "C09.ImmutableRecordUsingInit\C09.ImmutableRecordUsingInit.csproj", "{41C97D64-2C32-4B72-92D0-EBE808B093A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C10.PositionalRecord", "C10.PositionalRecord\C10.PositionalRecord.csproj", "{9793E922-53D3-4C45-9CC8-34FA44F1AAC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{41C97D64-2C32-4B72-92D0-EBE808B093A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41C97D64-2C32-4B72-92D0-EBE808B093A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41C97D64-2C32-4B72-92D0-EBE808B093A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9793E922-53D3-4C45-9CC8-34FA44F1AAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9793E922-53D3-4C45-9CC8-34FA44F1AAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9793E922-53D3-4C45-9CC8-34FA44F1AAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9793E922-53D3-4C45-9CC8-34FA44F1AAC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
