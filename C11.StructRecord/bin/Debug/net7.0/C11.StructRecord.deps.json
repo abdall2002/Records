@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C11.StructRecord/1.0.0": {
+        "runtime": {
+          "C11.StructRecord.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C11.StructRecord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

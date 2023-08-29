@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C09.ImmutableRecordUsingIni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C10.PositionalRecord", "C10.PositionalRecord\C10.PositionalRecord.csproj", "{9793E922-53D3-4C45-9CC8-34FA44F1AAC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C11.StructRecord", "C11.StructRecord\C11.StructRecord.csproj", "{97E09779-2BB0-4F72-B888-E431153DB4CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9793E922-53D3-4C45-9CC8-34FA44F1AAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9793E922-53D3-4C45-9CC8-34FA44F1AAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9793E922-53D3-4C45-9CC8-34FA44F1AAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E09779-2BB0-4F72-B888-E431153DB4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E09779-2BB0-4F72-B888-E431153DB4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E09779-2BB0-4F72-B888-E431153DB4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E09779-2BB0-4F72-B888-E431153DB4CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

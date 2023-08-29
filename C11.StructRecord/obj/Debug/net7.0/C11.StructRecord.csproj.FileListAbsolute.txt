@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\bin\Debug\net7.0\C11.StructRecord.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\bin\Debug\net7.0\C11.StructRecord.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\bin\Debug\net7.0\C11.StructRecord.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\bin\Debug\net7.0\C11.StructRecord.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\bin\Debug\net7.0\C11.StructRecord.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\C11.StructRecord.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\C11.StructRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\C11.StructRecord.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\C11.StructRecord.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\C11.StructRecord.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\C11.StructRecord.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\refint\C11.StructRecord.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\C11.StructRecord.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\C11.StructRecord.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C11.StructRecord\obj\Debug\net7.0\ref\C11.StructRecord.dll
