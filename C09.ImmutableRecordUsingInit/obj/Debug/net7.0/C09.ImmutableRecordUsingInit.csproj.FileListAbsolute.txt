@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\bin\Debug\net7.0\C09.ImmutableRecordUsingInit.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\bin\Debug\net7.0\C09.ImmutableRecordUsingInit.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\bin\Debug\net7.0\C09.ImmutableRecordUsingInit.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\bin\Debug\net7.0\C09.ImmutableRecordUsingInit.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\bin\Debug\net7.0\C09.ImmutableRecordUsingInit.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\C09.ImmutableRecordUsingInit.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\C09.ImmutableRecordUsingInit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\C09.ImmutableRecordUsingInit.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\C09.ImmutableRecordUsingInit.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\C09.ImmutableRecordUsingInit.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\C09.ImmutableRecordUsingInit.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\refint\C09.ImmutableRecordUsingInit.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\C09.ImmutableRecordUsingInit.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\C09.ImmutableRecordUsingInit.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C09.ImmutableRecordUsingInit\obj\Debug\net7.0\ref\C09.ImmutableRecordUsingInit.dll
