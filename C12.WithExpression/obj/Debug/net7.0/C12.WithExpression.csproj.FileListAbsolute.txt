@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\bin\Debug\net7.0\C12.WithExpression.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\bin\Debug\net7.0\C12.WithExpression.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\bin\Debug\net7.0\C12.WithExpression.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\bin\Debug\net7.0\C12.WithExpression.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\bin\Debug\net7.0\C12.WithExpression.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\C12.WithExpression.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\C12.WithExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\C12.WithExpression.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\C12.WithExpression.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\C12.WithExpression.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\C12.WithExpression.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\refint\C12.WithExpression.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\C12.WithExpression.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\C12.WithExpression.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C12.WithExpression\obj\Debug\net7.0\ref\C12.WithExpression.dll
