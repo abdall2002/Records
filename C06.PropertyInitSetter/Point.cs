@@ -9,9 +9,10 @@ namespace C06.PropertyInitSetter
 {
     class Point : IEquatable<Point>
     {
-        public int X;
-        public int Y;
+        public int X { get; init; }
+        public int Y { get; init; }
 
+        public Point() { }
         public Point(int x, int y)
         {
             X = x;
