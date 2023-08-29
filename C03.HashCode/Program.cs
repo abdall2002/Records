@@ -14,4 +14,4 @@ var c2 = new Customer { Id = 100, Name = "Issam" };
 Console.WriteLine($"c1.GetHashCode() = {c1.GetHashCode()}");
 Console.WriteLine($"c2.GetHashCode() = {c2.GetHashCode()}");
 
-Console.WriteLine(100.GetHashCode());
+Console.WriteLine(100.GetHashCode());    // -> Numerical value;

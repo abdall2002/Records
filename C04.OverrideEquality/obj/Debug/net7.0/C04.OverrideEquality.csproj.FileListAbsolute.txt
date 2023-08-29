@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\bin\Debug\net7.0\C04.OverrideEquality.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\bin\Debug\net7.0\C04.OverrideEquality.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\bin\Debug\net7.0\C04.OverrideEquality.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\bin\Debug\net7.0\C04.OverrideEquality.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\bin\Debug\net7.0\C04.OverrideEquality.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\C04.OverrideEquality.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\C04.OverrideEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\C04.OverrideEquality.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\C04.OverrideEquality.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\C04.OverrideEquality.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\C04.OverrideEquality.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\refint\C04.OverrideEquality.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\C04.OverrideEquality.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\C04.OverrideEquality.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C04.OverrideEquality\obj\Debug\net7.0\ref\C04.OverrideEquality.dll

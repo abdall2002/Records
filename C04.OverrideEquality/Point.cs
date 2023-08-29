@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace C04.OverrideEquality
+{
+    class Point
+    {
+        public int X;
+        public int Y;
+
+        public Point(int x, int y)
+        {
+            X = x;
+            Y = y;
+        }
+
+        public override bool Equals(object obj)
+        {
+            Point p = obj as Point;
+            if(p is null) 
+            {
+                return false;
+            }
+            return p.X == X && p.Y == Y;
+        }
+
+        public override int GetHashCode()
+        {
+            //int hash = 13;
+            //hash = hash * 7 + X.GetHashCode();
+            //hash = hash * 7 + Y.GetHashCode();
+            //return hash;
+
+            return HashCode.Combine(X, Y);
+        }
+
+    }
+
+}
