@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\bin\Debug\net7.0\C05.OverrideOperators.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\bin\Debug\net7.0\C05.OverrideOperators.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\bin\Debug\net7.0\C05.OverrideOperators.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\bin\Debug\net7.0\C05.OverrideOperators.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\bin\Debug\net7.0\C05.OverrideOperators.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\C05.OverrideOperators.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\C05.OverrideOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\C05.OverrideOperators.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\C05.OverrideOperators.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\C05.OverrideOperators.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\C05.OverrideOperators.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\refint\C05.OverrideOperators.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\C05.OverrideOperators.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\C05.OverrideOperators.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C05.OverrideOperators\obj\Debug\net7.0\ref\C05.OverrideOperators.dll
