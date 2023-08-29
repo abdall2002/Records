@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System;
-using C04.OverrideEquality;
+using C05.OverrideOperators;
 
 var p1 = new Point(2, 3);
 var p2 = new Point(2, 3);

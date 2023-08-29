@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\bin\Debug\net7.0\C06.PropertyInitSetter.exe
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\bin\Debug\net7.0\C06.PropertyInitSetter.deps.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\bin\Debug\net7.0\C06.PropertyInitSetter.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\bin\Debug\net7.0\C06.PropertyInitSetter.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\bin\Debug\net7.0\C06.PropertyInitSetter.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\C06.PropertyInitSetter.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\C06.PropertyInitSetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\C06.PropertyInitSetter.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\C06.PropertyInitSetter.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\C06.PropertyInitSetter.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\C06.PropertyInitSetter.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\refint\C06.PropertyInitSetter.dll
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\C06.PropertyInitSetter.pdb
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\C06.PropertyInitSetter.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSharpRecord\C06.PropertyInitSetter\obj\Debug\net7.0\ref\C06.PropertyInitSetter.dll

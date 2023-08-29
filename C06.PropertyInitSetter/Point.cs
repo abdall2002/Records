@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C05.OverrideOperators
+namespace C06.PropertyInitSetter
 {
     class Point : IEquatable<Point>
     {
